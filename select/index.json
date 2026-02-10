@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "WOLF",
+  "base_artist": "須田景凪",
+  "createdAt": "2026-02-10T07:04:11.061130Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Hungry Wolf Of Fate",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_The_Hungry_Wolf_Of_Fate_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lone Wolf",
+      "artist": "Eric Church",
+      "has_synced": true,
+      "path": "select/02_Lone_Wolf_Eric_Church.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Wolf at the Door",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/03_A_Wolf_at_the_Door_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Wolf At The Door. (It Girl. Rag Doll.)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/04_A_Wolf_At_The_Door._(It_Girl._Rag_Doll.)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cry Wolf",
+      "artist": "Lisa Germano",
+      "has_synced": true,
+      "path": "select/05_Cry_Wolf_Lisa_Germano.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wolf Pack",
+      "artist": "La Chat",
+      "has_synced": true,
+      "path": "select/06_Wolf_Pack_La_Chat.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wolf Pack (feat. DJ Paul, Gangsta Boo & Juicy J)",
+      "artist": "La Chat",
+      "has_synced": true,
+      "path": "select/07_Wolf_Pack_(feat._DJ_Paul,_Gangsta_Boo_&_Juicy_J)_La_Chat.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Wolf Who Wears Sheeps Clothes",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/08_A_Wolf_Who_Wears_Sheeps_Clothes_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Of Wolf and Man",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/09_Of_Wolf_and_Man_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Time We Lived - Laurent Wolf Remix",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/10_One_Time_We_Lived_-_Laurent_Wolf_Remix_Moby.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Wolf",
+      "artist": "Miniature Tigers",
+      "has_synced": true,
+      "path": "select/11_The_Wolf_Miniature_Tigers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We Will Commit Wolf Murder",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/12_We_Will_Commit_Wolf_Murder_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Wolf Is Getting Married",
+      "artist": "Sinéad O'Connor",
+      "has_synced": true,
+      "path": "select/13_The_Wolf_Is_Getting_Married_Sinéad_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Weekend (Jai Wolf Remix)",
+      "artist": "Mocki",
+      "has_synced": true,
+      "path": "select/14_Weekend_(Jai_Wolf_Remix)_Mocki.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Father of the Wolf",
+      "artist": "Amon Amarth",
+      "has_synced": true,
+      "path": "select/15_Father_of_the_Wolf_Amon_Amarth.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lone Wolf",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/16_Lone_Wolf_Judas_Priest.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Cry Wolf",
+      "artist": "Laura Branigan",
+      "has_synced": false,
+      "path": "select/17_Cry_Wolf_Laura_Branigan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WOLF",
+      "artist": "須田景凪",
+      "has_synced": false,
+      "path": "select/pl_01_WOLF_須田景凪.txt"
+    }
+  ]
+}
